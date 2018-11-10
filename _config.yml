@@ -1,0 +1,32 @@
+description: "Henry Rous Tavern"
+publisher: "Henry Rous Tavern"
+keywords: "Tavern, Pub, Ballina, beer, wine, spirits, games, lunch, dinner, stylish, fun, friendly"
+title: "Henry Rous Tavern"
+
+biz_name: "Henry Rous Tavern"
+biz_slog: ""
+biz_logo_name: "http://cdn.henryrous.com.au/img/logo.svg"
+
+biz_addr_1: "177&nbsp;River&nbsp;Street"
+biz_addr_2:
+biz_addr_city: "Ballina"
+biz_addr_state: "NSW"
+biz_addr_code: "2478"
+
+biz_phone: "02&nbsp;6681&nbsp;2411"
+biz_email: "staff@henryrous.com.au"
+
+biz_abn: "42&nbsp;628&nbsp;909&nbsp;982"
+
+pop-img:
+
+url: "https://www.henryrous.com.au"
+cdn: "https://cdn.henryrous.com.au"
+
+permalink: pretty
+
+paginate: 5
+paginate_path: "/blog/:num/"
+
+gems:
+  - jekyll-redirect-from

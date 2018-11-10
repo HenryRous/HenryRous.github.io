@@ -1,0 +1,14 @@
+---
+---
+.navbar-default { margin-bottom: 0px; }
+.navbar .icon-logo { height: 3em; width: 6em; }
+.styled { font-family: 'Rock Salt', cursive; }
+h1, .jumbotron h1 { color:#CC6633; }
+#content p { margin: 1em; line-height: 1.6em; }
+#content p + ul { margin-top: -1em; }
+.featurette { padding: 100px 0; }
+.featurette-divider {padding: 50px 0; }
+.icon { background-repeat: no-repeat; background-size: contain; background-position: center; height: 1em; width: 1em; display:inline-block; }
+.icon-phone { background-image: url('{{site.cdn}}/img/phone.svg') }
+.icon-logo { background-image: url('{{site.cdn}}/img/logo.svg') }
+#facebook {padding: 30px;}

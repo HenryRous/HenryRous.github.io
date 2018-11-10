@@ -1,0 +1,18 @@
+<nav class="navbar navbar-default navbar-static-top">
+     <div class="container">
+          <div class="navbar-header">
+               {% if page.title %}<a href="/" class="navbar-left"><span class="icon icon-logo"></span></a>{% elsif page.subtitle %}<span class="navbar-brand styled">{{page.subtitle}}</span>{% endif %}
+               <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+               </button>
+          </div>
+          <div class="navbar-collapse collapse" id="navbar-main">
+               <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/bistro/">Bistro</a></li>
+                    <li><a href="/whats-on/">What's On</a></li>
+               </ul>
+          </div>
+     </div>
+</nav> <!-- End of navigation menu -->
