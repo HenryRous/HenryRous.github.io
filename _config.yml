@@ -13,6 +13,8 @@ biz_addr_city: "Ballina"
 biz_addr_state: "NSW"
 biz_addr_code: "2478"
 
+biz_map_url: "https://www.google.com/maps/place/Henry+Rous+Tavern/"
+
 biz_phone: "02&nbsp;6681&nbsp;2411"
 biz_email: "staff@henryrous.com.au"
 
