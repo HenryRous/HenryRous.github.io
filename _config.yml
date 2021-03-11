@@ -25,10 +25,7 @@ pop-img:
 url: "https://www.henryrous.com.au"
 cdn: "https://cdn.henryrous.com.au"
 
-permalink: pretty
+permalink: /:path/:basename/
 
-paginate: 5
-paginate_path: "/blog/:num/"
-
-gems:
+plugins:
   - jekyll-redirect-from
