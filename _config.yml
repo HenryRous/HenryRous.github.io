@@ -5,7 +5,6 @@ title: "Henry Rous Tavern"
 
 biz_name: "Henry Rous Tavern"
 biz_slog: ""
-biz_logo_name: "http://cdn.henryrous.com.au/img/logo.svg"
 
 biz_addr_1: "177&nbsp;River&nbsp;Street"
 biz_addr_2:
@@ -13,14 +12,12 @@ biz_addr_city: "Ballina"
 biz_addr_state: "NSW"
 biz_addr_code: "2478"
 
-biz_map_url: "https://www.google.com/maps/place/Henry+Rous+Tavern/"
+biz_map_url: "https://www.google.com/maps/place/Henry+Rous+Tavern/@-28.869564,153.5569213,17z/data=!3m1!4b1!4m5!3m4!1s0x6b908018cd34244f:0x89a8cd5e13c48b4b!8m2!3d-28.8695687!4d153.55911"
 
 biz_phone: "02&nbsp;6686&nbsp;6415"
 biz_email: "staff@henryrous.com.au"
 
 biz_abn: "42&nbsp;628&nbsp;909&nbsp;982"
-
-pop-img:
 
 url: "https://www.henryrous.com.au"
 cdn: "https://cdn.henryrous.com.au"

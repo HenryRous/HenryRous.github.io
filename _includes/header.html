@@ -1,5 +1,7 @@
-<header class="{% if page.background %}jumbotron{% else %}page-header{% endif %}">
+<header class="container-fluid bg-banner py-4 mb-2 d-flex align-items-center">
   <div class="container">
-    <h1>{% if page.subtitle %}{{page.subtitle}}{% else %}<span class="icon icon-logo"></span>{% endif %}</h1>
+    {% if page.title %}<h1 class="display-1 text-marker text-brand">{{page.title}}</h1>{% endif %}
+    {% if page.subtitle %} <h2 class="display-4 text-rock_salt">{{page.subtitle}}</h2>{% endif %}
+    {% if page.lead %}<p class="display-6 lead">{{page.lead}}</p>{% endif %}
   </div>
 </header> <!-- End of header -->
